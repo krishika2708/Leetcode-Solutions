@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
