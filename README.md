@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -98,4 +99,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
