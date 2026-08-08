@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
