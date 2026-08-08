@@ -13,7 +13,7 @@ public:
       long long total = 0;
        
         for (int i = 0; i < piles.size(); i++) {
-            total += (piles[i] + hourly - 1LL) / hourly;
+            total += ceil((double)piles[i] / hourly);
         }
         return total;
     }
