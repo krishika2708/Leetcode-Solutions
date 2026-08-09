@@ -28,6 +28,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
