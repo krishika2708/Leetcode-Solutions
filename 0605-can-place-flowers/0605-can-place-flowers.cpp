@@ -15,7 +15,8 @@ public:
                 count++;
             }
         }
-
-        return count >= n;
+if(count >= n)
+        return true;
+       else return false;
     }
 };
