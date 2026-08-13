@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
