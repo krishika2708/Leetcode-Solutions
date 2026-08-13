@@ -38,6 +38,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0027-remove-element](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
