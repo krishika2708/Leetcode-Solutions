@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -169,4 +170,12 @@
 | [0074-search-a-2d-matrix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
