@@ -59,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
