@@ -52,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
