@@ -12,7 +12,7 @@ public:
             int r = i + 1;
 
             while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l + 1 > maxi) {
+                if (r - l + 1 > maxi) {       // length= r-l+1 ;
                     maxi = r - l + 1;
                     start = l;
                 }
