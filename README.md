@@ -110,6 +110,7 @@
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
