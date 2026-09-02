@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0330-patching-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
