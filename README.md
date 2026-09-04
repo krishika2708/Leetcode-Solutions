@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -268,6 +269,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
