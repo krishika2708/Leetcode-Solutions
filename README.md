@@ -37,6 +37,7 @@
 | [0330-patching-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -200,6 +201,7 @@
 | [0053-maximum-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -342,8 +344,17 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
