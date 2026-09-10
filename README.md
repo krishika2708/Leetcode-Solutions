@@ -90,6 +90,7 @@
 | [0001-two-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +218,7 @@
 | [0005-longest-palindromic-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
