@@ -44,6 +44,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -104,6 +105,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -385,6 +388,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
