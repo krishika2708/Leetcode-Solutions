@@ -233,6 +233,7 @@
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -292,6 +293,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Newton's Method
 |  |
 | ------- |
@@ -402,4 +405,20 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
