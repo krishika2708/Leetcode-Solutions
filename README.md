@@ -89,6 +89,7 @@
 | [0234-palindrome-linked-list](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -111,6 +112,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -244,6 +246,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -409,6 +412,7 @@
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
