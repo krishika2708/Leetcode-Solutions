@@ -51,3 +51,6 @@ public:
         return ans;
     }
 };
+
+
+// it can also be solved by hasharrays, see notebook notes
