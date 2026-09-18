@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -239,6 +240,7 @@
 | [0013-roman-to-integer](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -271,6 +273,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
