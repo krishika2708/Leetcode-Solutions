@@ -15,7 +15,7 @@ public:
                     }
                     else b2=b2^nums[i];
                 }
-        
+ 
         return {b1,b2};
-    }
+    }  
 };
