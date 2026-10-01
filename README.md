@@ -252,6 +252,7 @@
 | [0005-longest-palindromic-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -311,6 +312,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -321,6 +323,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
