@@ -178,6 +178,7 @@
 | [0069-sqrtx](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -264,6 +265,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -320,6 +322,7 @@
 | [0020-valid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -380,6 +383,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0342-power-of-four) |
