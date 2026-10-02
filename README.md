@@ -256,6 +256,7 @@
 | [0020-valid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0065-valid-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
