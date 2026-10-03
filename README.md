@@ -186,6 +186,7 @@
 | [0231-power-of-two](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
