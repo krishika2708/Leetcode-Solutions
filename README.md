@@ -74,6 +74,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -136,6 +137,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
@@ -310,6 +313,7 @@
 | [0735-asteroid-collision](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
