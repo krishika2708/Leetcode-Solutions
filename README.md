@@ -257,6 +257,7 @@
 | [0042-trapping-rain-water](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -276,6 +277,7 @@
 | [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -466,6 +468,7 @@
 | [0051-n-queens](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Pigeonhole Principle
 |  |
