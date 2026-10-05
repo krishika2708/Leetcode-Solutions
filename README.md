@@ -27,6 +27,7 @@
 | [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -276,6 +277,7 @@
 | [0065-valid-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -338,6 +340,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -467,6 +470,7 @@
 | [0040-combination-sum-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -537,4 +541,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
