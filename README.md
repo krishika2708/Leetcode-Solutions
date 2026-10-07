@@ -287,6 +287,7 @@
 | [0214-shortest-palindrome](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -481,6 +482,7 @@
 | [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Pigeonhole Principle
 |  |
@@ -553,4 +555,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
