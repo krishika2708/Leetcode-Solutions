@@ -4,7 +4,7 @@ public:
         const long long MOD = 1e9 + 7;
         int n = arr.size();
         vector<int> prev(n, -1);
-        vector<int>next(n, n);
+        vector<int> next(n, n);
         stack<int> st;
         for (int i = 0; i < n; i++) {
             while (!st.empty() && arr[st.top()] > arr[i]) {
