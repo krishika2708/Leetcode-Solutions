@@ -82,6 +82,7 @@
 | [2643-row-with-maximum-ones](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [0371-sum-of-two-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
