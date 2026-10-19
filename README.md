@@ -76,6 +76,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -168,6 +169,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -243,6 +245,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Indexed Tree
