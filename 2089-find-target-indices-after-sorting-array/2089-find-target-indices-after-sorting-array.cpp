@@ -47,3 +47,4 @@ public:
         return res;
     }
 };
+//if you dont take 'arr' and sort original 'nums' array then also there is no problem
