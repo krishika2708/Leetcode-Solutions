@@ -89,6 +89,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -599,4 +602,5 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
