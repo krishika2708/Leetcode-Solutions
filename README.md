@@ -335,6 +335,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
