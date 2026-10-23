@@ -57,6 +57,7 @@
 | [0605-can-place-flowers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -405,6 +406,7 @@
 | [0503-next-greater-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -510,6 +512,7 @@
 | [0402-remove-k-digits](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Tournament Sort
 |  |
