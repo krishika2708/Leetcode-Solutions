@@ -220,6 +220,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2549-count-distinct-numbers-on-board](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -337,6 +338,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
