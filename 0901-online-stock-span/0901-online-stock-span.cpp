@@ -3,8 +3,7 @@ public:
 stack<pair<int,int>>st;
 int ind=-1;
     StockSpanner() {
-        int ind=-1;
-        // st.clear();
+        int ind=-1; 
 
     }
     int ans;
