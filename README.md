@@ -68,6 +68,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -389,6 +390,7 @@
 | [0074-search-a-2d-matrix](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Stack
@@ -611,10 +613,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -628,4 +632,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
