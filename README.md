@@ -97,6 +97,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -303,6 +304,7 @@
 | [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -483,6 +486,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
