@@ -5,8 +5,7 @@ public:
         int n = grid[0].size();
 
         vector<vector<bitset<1024>>> dp(m, vector<bitset<1024>>(n));
-        //m*n
-        //dp[i][j] = it stores a bitset<1024> {0, 0, 1, 1, 0, .....}
+      
 
         dp[0][0][grid[0][0]] = 1;
 
@@ -15,8 +14,8 @@ public:
                 if(i == 0 && j == 0)
                     continue;
 
-                bitset<1024> up; //[i-1][j]
-                bitset<1024> left; //[i][j-1]
+                bitset<1024> up;
+                bitset<1024> left; 
 
                 if(i > 0) {
                     up = dp[i-1][j];
