@@ -96,6 +96,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -308,6 +309,7 @@
 | [0494-target-sum](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [3665-twisted-mirror-path-count](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -408,6 +410,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/krishika2708/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
