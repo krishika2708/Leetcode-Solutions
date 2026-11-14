@@ -421,6 +421,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -644,6 +645,7 @@
 | ------- |
 | [0079-word-search](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/krishika2708/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -680,6 +682,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishika2708/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -693,4 +696,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishika2708/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
